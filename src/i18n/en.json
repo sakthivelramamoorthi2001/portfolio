@@ -1,0 +1,138 @@
+{
+  "LANGUAGE": "es",
+  "SEO_TITLE": "sakthivel_Ramamoorthi - Portfolio",
+  "SEO_DESCRIPTION": "Explora mi portafolio para ver mis proyectos y habilidades. Soy un desarrollador full-stack y me encanta crear sitios web y aplicaciones.",
+  "HERO_SECTION": {
+    "TITLE": "Hey !",
+    "TITLE_NAV": "Inicio",
+    "SUBTITLE_NORMAL": "Sakthivel",
+    "SUBTITLE_EMPHASIS": "Ramamoorthi",
+    "JOB_TITLE": "Full Stack Developer",
+    "CV": {
+      "BTN_TEXT": "Download CV",
+      "FILENAME": "sakthivel_Ramamoorthi.pdf",
+      "PATH": "pdf/marco-cruz-cv-es.pdf",
+      "ARIA_LABEL": "Descargar CV de sakthivel_Ramamoorthi en español"
+    },
+    "IMAGE": {
+      "ALT": "sakthivel_Ramamoorthi - Desarrollador Frontend"
+    }
+  },
+  "ABOUT_SECTION": {
+    "TITLE": "About Me",
+    "DESCRIPTION_1": "Bringing 2.5 years of software development experience to the forefront (including internships) , my journey has been marked by significant contributions within VGTS. <strong> Proficient in frontend, backend, and static website development </strong>, I've played a pivotal role in driving the success of various projects.",
+    "DESCRIPTION_2": "Beyond professional pursuits, I'm deeply passionate about music, finding solace and inspiration in exploring different genres. This creative outlet not only rejuvenates me but <strong> also enhances my problem-solving skills </strong> and overall well-being",
+    "DESCRIPTION_3": "In essence, my journey reflects an unwavering commitment to excellence, continuous learning, and the pursuit of personal passions.",
+    "IMAGE": {
+      "ALT": "sakthivel_Ramamoorthi - Sobre mí"
+    }
+  },
+  "SKILLS_SECTION": {
+    "TITLE": "Habilidades",
+    "TITLES": {
+      "FRONTEND": "Frontend",
+      "BACKEND": "Backend",
+      "OTHERS": "Tool",
+      "LEARNING": "Other"
+    }
+  },
+  "PORTFOLIO_SECTION": {
+    "TITLE": "Project's",
+    "BUTTONS": {
+      "BTN_GITHUB": "Code",
+      "BTN_PRODUCTION": "Demo",
+      "BTN_MORE_PROJECTS": "see more..."
+    },
+    "PROJECTS": [
+      {
+        "name": "Surgtest",
+        "description": "I worked at Surgtest as a front-end developer, where I was responsible for creating the entire workflow for the project. My key accomplishment was implementing role-based screen privileges, which significantly enhanced user experience. Additionally, I developed a WhatsApp module using WebSocket technology to facilitate real-time user communication. This project provided me with invaluable skills and experience.",
+        "image": "images/portfolio/surgtest.png",
+        "technologies": [
+          { "name": "Angular", "image": "angular.webp" },
+          { "name": "NodeJs", "image": "nodejs.webp" },
+          { "name": "MongoDB", "image": "mongo.webp" },
+          { "name": "Docker", "image": "docker.webp" }
+        ],
+        "urlGithub": "",
+        "urlProduction": "https://admin.surgtest.com/"
+      },
+      {
+        "name": "Vee2Care",
+        "description": "The Vee2care, I served as a front-end developer for a school management project. While the project featured a common template for all schools, This required adept management and problem-solving skills to address unique requirements efficiently. Notably, I spearheaded the development of a proof-of-concept for auto-generated templates, particularly for certificate printing. This project not only enhanced my skills but also presented challenging situations that I successfully navigated",
+        "image": "images/portfolio/vee2care.png",
+        "technologies": [
+          { "name": "Angular", "image": "angular.webp" },
+          { "name": "NodeJs", "image": "nodejs.webp" },
+          { "name": "MongoDB", "image": "mongo.webp" },
+          { "name": "Docker", "image": "docker.webp" }
+        ],
+        "urlGithub": "",
+        "urlProduction": "https://myapp.vee2care.com/"
+      },
+      {
+        "name": "Turtle Egg Collection",
+        "description": "The Turtle Egg Collection project, I served as both a back-end and front-end developer. The project aimed to calculate turtle egg data and efficiently track their burial locations. One of the key challenges was standardizing time calculations across multiple locations to Indian time. This aspect of the project significantly enhanced my skills in standardizing time across diverse locations and its application in large-scale data processing .",
+        "image": "images/portfolio/turtle.png",
+
+        "technologies": [
+          { "name": "Angular", "image": "angular.webp" },
+          { "name": "NestJs", "image": "nestjs.webp" },
+          { "name": "MySQL", "image": "mysql.webp" },
+          { "name": "Docker", "image": "docker.webp" }
+        ],
+        "urlGithub": "",
+        "urlProduction": "https://turtle.vgts.tech/"
+      },
+      {
+        "name": "The Mortimer Green ",
+        "description": "The Mortimer Green, an old panel of Surgtest, I served as a front-end developer. My primary responsibility was to support the migration process from Mortimer Green to Surgtest for our clients. This project, initiated five years ago, presented significant challenges due to deprecated technologies. However, by upgrading to the current Node.js version, we were able to align it with the functionality of the new admin panel. Despite the complexity of the task, I successfully completed the migration, ensuring a smooth transition for our clients.",
+        "image": "images/portfolio/mortimerGreen.png",
+        "technologies": [
+          { "name": "Angular", "image": "angular.webp" },
+          { "name": "TypeScript", "image": "ts.webp" },
+          { "name": "SASS", "image": "sass.webp" },
+          { "name": "HTML", "image": "html.webp" }
+        ],
+        "urlGithub": "",
+        "urlProduction": "https://dashboard.mortimergreen.org/"
+      },
+
+      {
+        "name": "Village Services Trust & Institution",
+        "description": "The Village Services Trust & Institution, I independently developed a static project with responsive design features. This project, crafted entirely by me, included a multislider feature that adapted seamlessly across different devices. Since it was a government project, a template was provided, and I ensured precise adherence to its design specifications and layout.",
+        "image": "images/portfolio/tamilnadu.png",
+        "technologies": [
+          { "name": "HTML", "image": "html.webp" },
+          { "name": "CSS", "image": "css.webp" },
+          { "name": "JavaScript", "image": "js.webp" }
+        ],
+        "urlGithub": "",
+        "urlProduction": ""
+      },
+      {
+        "name": "Curium Life Website",
+        "description": "The Curium Life, a Surgtest website, I collaborated with a client to ensure a responsive design for both desktop and mobile platforms. Working closely with another team member, we meticulously designed and implemented the website to meet the client's requirements and expectations",
+        "image": "images/portfolio/curiumLift.webp",
+        "technologies": [
+          { "name": "HTML", "image": "html.webp" },
+          { "name": "CSS", "image": "css.webp" },
+          { "name": "JavaScript", "image": "js.webp" }
+        ],
+        "urlGithub": "",
+        "urlProduction": "https://curium.life/"
+      }
+    ]
+  },
+  "CONTACT_SECTION": {
+    "TITLE": "Contact",
+    "DESCRIPTION": "I'm currently seeking new opportunities, and my email is always open for communication!"
+  },
+  "FOOTER": {
+    "DESCRIPTION": "Designed and Built with ❤️ in"
+  },
+  "THEME": {
+    "DARK_THEME": "Dark",
+    "LIGHT_THEME": "Light"
+  }
+}

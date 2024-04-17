@@ -1,0 +1,104 @@
+{
+  "cardsDataFrontend": [
+    {
+      "name": "HTML",
+      "imagePath": "/images/html.webp",
+      "alt": "html"
+    },
+    {
+      "name": "CSS ",
+      "imagePath": "/images/css.webp",
+      "alt": "css"
+    },
+
+    {
+      "name": "JavaScript",
+      "imagePath": "/images/js.webp",
+      "alt": "js"
+    },
+    {
+      "name": "TypeScript",
+      "imagePath": "/images/ts.webp",
+      "alt": "ts"
+    },
+    {
+      "name": "React js",
+      "imagePath": "/images/react.png",
+      "alt": "react js"
+    },
+    {
+      "name": "Vue",
+      "imagePath": "/images/vue.webp",
+      "alt": "vue"
+    },
+    {
+      "name": "Tailwind",
+      "imagePath": "/images/tailwind.webp",
+      "alt": "tailwind"
+    },
+    {
+      "name": "Redux",
+      "imagePath": "/images/redux.png",
+      "alt": "Redux js"
+    }
+  ],
+  "cardsDataBackend": [
+    {
+      "name": "Nodejs",
+      "imagePath": "/images/nodejs.webp",
+      "alt": "nodejs"
+    },
+    {
+      "name": "Nestjs",
+      "imagePath": "/images/nestjs.webp",
+      "alt": "nestjs"
+    },
+    {
+      "name": "TypeScript",
+      "imagePath": "/images/ts.webp",
+      "alt": "ts"
+    },
+    {
+      "name": "Express",
+      "imagePath": "/images/express.png",
+      "alt": "Express"
+    },
+    {
+      "name": "PostgreSql",
+      "imagePath": "/images/postgresql.webp",
+      "alt": "postgresql"
+    },
+    {
+      "name": "MongoDB",
+      "imagePath": "/images/mongo.webp",
+      "alt": "mongodb"
+    },
+    {
+      "name": "MySql",
+      "imagePath": "/images/mysql.webp",
+      "alt": "mysql"
+    },
+    { "name": "DSA", "imagePath": "/images/dsa.svg", "alt": "ds" }
+  ],
+  "cardsDataOthers": [
+    {
+      "name": "Git",
+      "imagePath": "/images/git.webp",
+      "alt": "git"
+    },
+    {
+      "name": "Postman",
+      "imagePath": "/images/postman.webp",
+      "alt": "postman"
+    },
+    { "name": "Prisma", "imagePath": "/images/prisma.svg", "alt": "prisma" },
+    { "name": "Eslint", "imagePath": "/images/eslint.svg", "alt": "eslint" },
+    {
+      "name": "Prettier",
+      "imagePath": "/images/prettier.svg",
+      "alt": "prettier"
+    },
+    { "name": "Vite", "imagePath": "/images/vite.svg", "alt": "vite" }
+  ],
+  "cardsDataLearning": []
+}
