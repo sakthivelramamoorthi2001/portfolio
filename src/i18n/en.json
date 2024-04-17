@@ -1,21 +1,21 @@
 {
-  "LANGUAGE": "es",
+  "LANGUAGE": "en",
   "SEO_TITLE": "sakthivel_Ramamoorthi - Portfolio",
   "SEO_DESCRIPTION": "Explora mi portafolio para ver mis proyectos y habilidades. Soy un desarrollador full-stack y me encanta crear sitios web y aplicaciones.",
   "HERO_SECTION": {
     "TITLE": "Hey !",
-    "TITLE_NAV": "Inicio",
+    "TITLE_NAV": "Start",
     "SUBTITLE_NORMAL": "Sakthivel",
     "SUBTITLE_EMPHASIS": "Ramamoorthi",
     "JOB_TITLE": "Full Stack Developer",
     "CV": {
       "BTN_TEXT": "Download CV",
       "FILENAME": "sakthivel_Ramamoorthi.pdf",
-      "PATH": "pdf/marco-cruz-cv-es.pdf",
-      "ARIA_LABEL": "Descargar CV de sakthivel_Ramamoorthi en español"
+      "PATH": "",
+      "ARIA_LABEL": ""
     },
     "IMAGE": {
-      "ALT": "sakthivel_Ramamoorthi - Desarrollador Frontend"
+      "ALT": "sakthivel_Ramamoorthi"
     }
   },
   "ABOUT_SECTION": {
@@ -24,11 +24,11 @@
     "DESCRIPTION_2": "Beyond professional pursuits, I'm deeply passionate about music, finding solace and inspiration in exploring different genres. This creative outlet not only rejuvenates me but <strong> also enhances my problem-solving skills </strong> and overall well-being",
     "DESCRIPTION_3": "In essence, my journey reflects an unwavering commitment to excellence, continuous learning, and the pursuit of personal passions.",
     "IMAGE": {
-      "ALT": "sakthivel_Ramamoorthi - Sobre mí"
+      "ALT": "sakthivel_Ramamoorthi - about"
     }
   },
   "SKILLS_SECTION": {
-    "TITLE": "Habilidades",
+    "TITLE": "Tech Stack",
     "TITLES": {
       "FRONTEND": "Frontend",
       "BACKEND": "Backend",
@@ -49,10 +49,11 @@
         "description": "I worked at Surgtest as a front-end developer, where I was responsible for creating the entire workflow for the project. My key accomplishment was implementing role-based screen privileges, which significantly enhanced user experience. Additionally, I developed a WhatsApp module using WebSocket technology to facilitate real-time user communication. This project provided me with invaluable skills and experience.",
         "image": "images/portfolio/surgtest.png",
         "technologies": [
-          { "name": "Angular", "image": "angular.webp" },
-          { "name": "NodeJs", "image": "nodejs.webp" },
-          { "name": "MongoDB", "image": "mongo.webp" },
-          { "name": "Docker", "image": "docker.webp" }
+          { "name": "React Js", "image": "react.png" },
+          { "name": "Redux", "image": "redux.png" },
+          { "name": "TypeScript", "image": "ts.webp" },
+          { "name": "Eslint", "image": "eslint.svg" },
+          { "name": "Husky", "image": "husky.png" }
         ],
         "urlGithub": "",
         "urlProduction": "https://admin.surgtest.com/"
@@ -62,10 +63,8 @@
         "description": "The Vee2care, I served as a front-end developer for a school management project. While the project featured a common template for all schools, This required adept management and problem-solving skills to address unique requirements efficiently. Notably, I spearheaded the development of a proof-of-concept for auto-generated templates, particularly for certificate printing. This project not only enhanced my skills but also presented challenging situations that I successfully navigated",
         "image": "images/portfolio/vee2care.png",
         "technologies": [
-          { "name": "Angular", "image": "angular.webp" },
-          { "name": "NodeJs", "image": "nodejs.webp" },
-          { "name": "MongoDB", "image": "mongo.webp" },
-          { "name": "Docker", "image": "docker.webp" }
+          { "name": "vue", "image": "vue.webp" },
+          { "name": "Eslint", "image": "eslint.svg" }
         ],
         "urlGithub": "",
         "urlProduction": "https://myapp.vee2care.com/"
@@ -76,10 +75,11 @@
         "image": "images/portfolio/turtle.png",
 
         "technologies": [
-          { "name": "Angular", "image": "angular.webp" },
-          { "name": "NestJs", "image": "nestjs.webp" },
-          { "name": "MySQL", "image": "mysql.webp" },
-          { "name": "Docker", "image": "docker.webp" }
+          { "name": "Node js", "image": "nodejs.webp" },
+          { "name": "Prisma", "image": "prisma.svg" },
+          { "name": "Postgrs", "image": "postgresql.webp" },
+          { "name": "React Js", "image": "react.png" },
+          { "name": "TypeScript", "image": "ts.webp" }
         ],
         "urlGithub": "",
         "urlProduction": "https://turtle.vgts.tech/"
@@ -88,12 +88,7 @@
         "name": "The Mortimer Green ",
         "description": "The Mortimer Green, an old panel of Surgtest, I served as a front-end developer. My primary responsibility was to support the migration process from Mortimer Green to Surgtest for our clients. This project, initiated five years ago, presented significant challenges due to deprecated technologies. However, by upgrading to the current Node.js version, we were able to align it with the functionality of the new admin panel. Despite the complexity of the task, I successfully completed the migration, ensuring a smooth transition for our clients.",
         "image": "images/portfolio/mortimerGreen.png",
-        "technologies": [
-          { "name": "Angular", "image": "angular.webp" },
-          { "name": "TypeScript", "image": "ts.webp" },
-          { "name": "SASS", "image": "sass.webp" },
-          { "name": "HTML", "image": "html.webp" }
-        ],
+        "technologies": [{ "name": "Nuxt js", "image": "nuxt.png" }],
         "urlGithub": "",
         "urlProduction": "https://dashboard.mortimergreen.org/"
       },

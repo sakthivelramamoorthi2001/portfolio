@@ -40,6 +40,11 @@
       "name": "Redux",
       "imagePath": "/images/redux.png",
       "alt": "Redux js"
+    },
+    {
+      "name": "Husky",
+      "imagePath": "/images/husky.png",
+      "alt": "Husky js"
     }
   ],
   "cardsDataBackend": [

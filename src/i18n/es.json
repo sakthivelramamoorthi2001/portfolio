@@ -1,39 +1,39 @@
 {
-  "LANGUAGE": "es",
+  "LANGUAGE": "en",
   "SEO_TITLE": "sakthivel_Ramamoorthi - Portfolio",
   "SEO_DESCRIPTION": "Explora mi portafolio para ver mis proyectos y habilidades. Soy un desarrollador full-stack y me encanta crear sitios web y aplicaciones.",
   "HERO_SECTION": {
     "TITLE": "Hey !",
-    "TITLE_NAV": "Inicio",
+    "TITLE_NAV": "Start",
     "SUBTITLE_NORMAL": "Sakthivel",
     "SUBTITLE_EMPHASIS": "Ramamoorthi",
     "JOB_TITLE": "Full Stack Developer",
     "CV": {
       "BTN_TEXT": "Download CV",
       "FILENAME": "sakthivel_Ramamoorthi.pdf",
-      "PATH": "pdf/marco-cruz-cv-es.pdf",
-      "ARIA_LABEL": "Descargar CV de sakthivel_Ramamoorthi en español"
+      "PATH": "",
+      "ARIA_LABEL": ""
     },
     "IMAGE": {
-      "ALT": "sakthivel_Ramamoorthi - Desarrollador Frontend"
+      "ALT": "sakthivel_Ramamoorthi"
     }
   },
   "ABOUT_SECTION": {
-    "TITLE": "Sobre mí",
-    "DESCRIPTION_1": "Me llamo Marco Antonio Cruz Gabino, pero puedes llamarme Marco. Mi camino en la programación comenzó a la temprana edad de 16 años. Inicié mi viaje utilizando <strong>PSeInt como mi primer pseudolenguaje,</strong> una experiencia que sentó las bases de mi fascinación por la resolución de problemas y la lógica de programación.",
-    "DESCRIPTION_2": "Un hito significativo en mi trayectoria es la concepción y desarrollo de un sistema destinado a la búsqueda de herramientas de desarrollo, diseño y más. Esta iniciativa fue resultado de mi participación en la <strong>Hackathon del 'Día de la Programación'</strong> realizada en 2022, donde obtuve el honor de alcanzar la <strong>tercera posición.</strong>",
-    "DESCRIPTION_3": "Actualmente, me encuentro en la <strong>búsqueda de una oportunidad laboral como desarrollador frontend,</strong> donde pueda aplicar mis conocimientos y habilidades para crear soluciones que ayuden a las personas a resolver sus problemas.",
+    "TITLE": "About Me",
+    "DESCRIPTION_1": "Bringing 2.5 years of software development experience to the forefront (including internships) , my journey has been marked by significant contributions within VGTS. <strong> Proficient in frontend, backend, and static website development </strong>, I've played a pivotal role in driving the success of various projects.",
+    "DESCRIPTION_2": "Beyond professional pursuits, I'm deeply passionate about music, finding solace and inspiration in exploring different genres. This creative outlet not only rejuvenates me but <strong> also enhances my problem-solving skills </strong> and overall well-being",
+    "DESCRIPTION_3": "In essence, my journey reflects an unwavering commitment to excellence, continuous learning, and the pursuit of personal passions.",
     "IMAGE": {
-      "ALT": "sakthivel_Ramamoorthi - Sobre mí"
+      "ALT": "sakthivel_Ramamoorthi - about"
     }
   },
   "SKILLS_SECTION": {
-    "TITLE": "Habilidades",
+    "TITLE": "Tech Stack",
     "TITLES": {
       "FRONTEND": "Frontend",
       "BACKEND": "Backend",
       "OTHERS": "Tool",
-      "LEARNING": "Tools"
+      "LEARNING": "Other"
     }
   },
   "PORTFOLIO_SECTION": {
@@ -41,123 +41,98 @@
     "BUTTONS": {
       "BTN_GITHUB": "Code",
       "BTN_PRODUCTION": "Demo",
-      "BTN_MORE_PROJECTS": "Ver más..."
+      "BTN_MORE_PROJECTS": "see more..."
     },
     "PROJECTS": [
       {
         "name": "Surgtest",
-        "description": "Este es un servicio de almacenamiento en la nube que permite a los usuarios cargar y descargar archivos. Aquí también puedes crear carpetas y subcarpetas para organizar tus archivos.",
-        "image": "images/portfolio/cloud-box.webp",
+        "description": "I worked at Surgtest as a front-end developer, where I was responsible for creating the entire workflow for the project. My key accomplishment was implementing role-based screen privileges, which significantly enhanced user experience. Additionally, I developed a WhatsApp module using WebSocket technology to facilitate real-time user communication. This project provided me with invaluable skills and experience.",
+        "image": "images/portfolio/surgtest.png",
         "technologies": [
           { "name": "Angular", "image": "angular.webp" },
           { "name": "NodeJs", "image": "nodejs.webp" },
           { "name": "MongoDB", "image": "mongo.webp" },
           { "name": "Docker", "image": "docker.webp" }
         ],
-        "urlGithub": "https://github.com/marcode24/cloudbox-frontend",
-        "urlProduction": "https://cloudbox-m.netlify.app/"
+        "urlGithub": "",
+        "urlProduction": "https://admin.surgtest.com/"
       },
       {
-        "name": "Info Reader",
-        "description": "Esta es una aplicación web que te permite leer noticias de tecnología utilizando fuentes RSS de diferentes fuentes y almacenándolas en una base de datos. También te permite crear una cuenta de usuario y guardar tus noticias favoritas",
-        "image": "images/portfolio/inforeader.webp",
+        "name": "Vee2Care",
+        "description": "The Vee2care, I served as a front-end developer for a school management project. While the project featured a common template for all schools, This required adept management and problem-solving skills to address unique requirements efficiently. Notably, I spearheaded the development of a proof-of-concept for auto-generated templates, particularly for certificate printing. This project not only enhanced my skills but also presented challenging situations that I successfully navigated",
+        "image": "images/portfolio/vee2care.png",
         "technologies": [
           { "name": "Angular", "image": "angular.webp" },
           { "name": "NodeJs", "image": "nodejs.webp" },
           { "name": "MongoDB", "image": "mongo.webp" },
           { "name": "Docker", "image": "docker.webp" }
         ],
-        "urlGithub": "https://github.com/marcode24/InfoReader-App",
-        "urlProduction": "https://inforeader.netlify.app/"
+        "urlGithub": "",
+        "urlProduction": "https://myapp.vee2care.com/"
       },
       {
-        "name": "Smart Dental",
-        "description": "Esta aplicación te permite gestionar una clínica dental, llevando un historial de los pacientes, gestionando las citas, el inventario, así como los empleados y pacientes.",
-        "image": "images/portfolio/smart-dental.webp",
+        "name": "Turtle Egg Collection",
+        "description": "The Turtle Egg Collection project, I served as both a back-end and front-end developer. The project aimed to calculate turtle egg data and efficiently track their burial locations. One of the key challenges was standardizing time calculations across multiple locations to Indian time. This aspect of the project significantly enhanced my skills in standardizing time across diverse locations and its application in large-scale data processing .",
+        "image": "images/portfolio/turtle.png",
+
         "technologies": [
           { "name": "Angular", "image": "angular.webp" },
           { "name": "NestJs", "image": "nestjs.webp" },
           { "name": "MySQL", "image": "mysql.webp" },
           { "name": "Docker", "image": "docker.webp" }
         ],
-        "urlGithub": "https://github.com/marcode24/smart-dental-frontend",
-        "urlProduction": "https://smart-dental.netlify.app/"
+        "urlGithub": "",
+        "urlProduction": "https://turtle.vgts.tech/"
       },
       {
-        "name": "Bon Appetito App",
-        "description": "Aquí puedes comprar o construir tu propia pizza, seleccionar los ingredientes y el tamaño, y luego realizar tu pedido.",
-        "image": "images/portfolio/bon-appetito.webp",
+        "name": "The Mortimer Green ",
+        "description": "The Mortimer Green, an old panel of Surgtest, I served as a front-end developer. My primary responsibility was to support the migration process from Mortimer Green to Surgtest for our clients. This project, initiated five years ago, presented significant challenges due to deprecated technologies. However, by upgrading to the current Node.js version, we were able to align it with the functionality of the new admin panel. Despite the complexity of the task, I successfully completed the migration, ensuring a smooth transition for our clients.",
+        "image": "images/portfolio/mortimerGreen.png",
         "technologies": [
           { "name": "Angular", "image": "angular.webp" },
           { "name": "TypeScript", "image": "ts.webp" },
           { "name": "SASS", "image": "sass.webp" },
           { "name": "HTML", "image": "html.webp" }
         ],
-        "urlGithub": "https://github.com/marcode24/bon-appetito",
-        "urlProduction": "https://bon-appetito.netlify.app/"
+        "urlGithub": "",
+        "urlProduction": "https://dashboard.mortimergreen.org/"
       },
+
       {
-        "name": "Guess Word Game",
-        "description": "Este es un juego en el que debes adivinar la respuesta a una pregunta. Dependiendo del nivel de dificultad, tendrás un número determinado de intentos para adivinar la respuesta. El juego termina cuando te quedas sin intentos o adivinas la respuesta correctamente.",
-        "image": "images/portfolio/guess-word.webp",
-        "technologies": [
-          { "name": "Angular", "image": "angular.webp" },
-          { "name": "NodeJs", "image": "nodejs.webp" },
-          { "name": "SASS", "image": "sass.webp" },
-          { "name": "MongoDB", "image": "mongo.webp" }
-        ],
-        "urlGithub": "https://github.com/marcode24/GuessWord-Game",
-        "urlProduction": "https://wordguess-game.netlify.app/"
-      },
-      {
-        "name": "Twitter Clone",
-        "description": "Este es un clon de la aplicación de Twitter que te permite crear una cuenta de usuario, publicar tweets, seguir a otros usuarios, dar me gusta a tweets, entre otras funciones.",
-        "image": "images/portfolio/twitter-clone.webp",
-        "technologies": [
-          { "name": "Angular", "image": "angular.webp" },
-          { "name": "NodeJs", "image": "nodejs.webp" },
-          { "name": "SASS", "image": "sass.webp" },
-          { "name": "MongoDB", "image": "mongo.webp" }
-        ],
-        "urlGithub": "https://github.com/marcode24/twitter-clone",
-        "urlProduction": "https://twitter-clone-challenge.netlify.app/"
-      },
-      {
-        "name": "Memory Game",
-        "description": "Este es un juego de memoria en el que debes encontrar los pares de cartas. Hay 3 niveles de dificultad: fácil, medio y difícil.",
-        "image": "images/portfolio/memory-game.webp",
+        "name": "Village Services Trust & Institution",
+        "description": "The Village Services Trust & Institution, I independently developed a static project with responsive design features. This project, crafted entirely by me, included a multislider feature that adapted seamlessly across different devices. Since it was a government project, a template was provided, and I ensured precise adherence to its design specifications and layout.",
+        "image": "images/portfolio/tamilnadu.png",
         "technologies": [
           { "name": "HTML", "image": "html.webp" },
           { "name": "CSS", "image": "css.webp" },
           { "name": "JavaScript", "image": "js.webp" }
         ],
-        "urlGithub": "https://github.com/marcode24/memory-game",
-        "urlProduction": "https://marcode24.github.io/memory-game/"
+        "urlGithub": "",
+        "urlProduction": ""
       },
       {
-        "name": "Unit Converter",
-        "description": "Este es un conversor de unidades, te permite convertir de una unidad a otra en diversas categorías como longitud, peso, volumen, etc.",
-        "image": "images/portfolio/unit-converter.webp",
+        "name": "Curium Life Website",
+        "description": "The Curium Life, a Surgtest website, I collaborated with a client to ensure a responsive design for both desktop and mobile platforms. Working closely with another team member, we meticulously designed and implemented the website to meet the client's requirements and expectations",
+        "image": "images/portfolio/curiumLift.webp",
         "technologies": [
-          { "name": "Angular", "image": "angular.webp" },
-          { "name": "TypeScript", "image": "ts.webp" },
-          { "name": "SASS", "image": "sass.webp" },
-          { "name": "HTML", "image": "html.webp" }
+          { "name": "HTML", "image": "html.webp" },
+          { "name": "CSS", "image": "css.webp" },
+          { "name": "JavaScript", "image": "js.webp" }
         ],
-        "urlGithub": "https://github.com/marcode24/Unit-Converter",
-        "urlProduction": "https://unit-converter-site.netlify.app/"
+        "urlGithub": "",
+        "urlProduction": "https://curium.life/"
       }
     ]
   },
   "CONTACT_SECTION": {
-    "TITLE": "Contáctame",
-    "DESCRIPTION": "Actualmente estoy buscando nuevas oportunidades, ¡mi correo electrónico siempre está abierto!"
+    "TITLE": "Contact",
+    "DESCRIPTION": "I'm currently seeking new opportunities, and my email is always open for communication!"
   },
   "FOOTER": {
-    "DESCRIPTION": "Diseñado y Construido con ❤️ por"
+    "DESCRIPTION": "Designed and Built with ❤️ in"
   },
   "THEME": {
-    "DARK_THEME": "Tema oscuro",
-    "LIGHT_THEME": "Tema claro"
+    "DARK_THEME": "Dark",
+    "LIGHT_THEME": "Light"
   }
 }
